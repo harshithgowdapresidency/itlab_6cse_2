@@ -1,0 +1,23 @@
+
+div.h{
+background-image:url("/home/itsec2/Downloads/presidency-bangalore-infrastructure.jpg");
+border:2px solid black;
+}
+div.r{
+margin:80px;
+background-color:#ffffff;
+border:2px solid black;
+opacity:0.6;
+text-align:center;
+filter:alpha(opacity=60);
+}
+div.r p{
+
+margin:5%;
+font-weight:bold:
+color:#000000;
+}
+
+
+
+

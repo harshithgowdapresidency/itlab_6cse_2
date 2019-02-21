@@ -1,0 +1,31 @@
+
+body{
+  background-image:url("/home/itsec2/Downloads/jpeg-home.jpg");
+  background-repeat:no-repeat;
+background-attachment:fixed;
+background-attachment:scroll;
+background-position:center;
+}
+#redtxt{color:red; text-align:center;
+font-family:Bookman old style;
+text-decoration:line-through;
+font-style:italic;
+font-ssize:250px;}
+.bluetxt{color:blue;}
+a.redtxt:visited{color:red;}
+a.bluetxt:link{color:blue;}
+a.largetxt:hover{font-size:50pt;}
+a.act:active{color:green;}
+h1,h2,h3
+{
+color:red;
+font-weight: bold;
+letter-spacing:1em;
+margin-bottom:1em;
+text-transform:1pt ;
+border-style:dashed;
+}
+
+
+
+

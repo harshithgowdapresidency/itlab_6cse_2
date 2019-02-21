@@ -1,0 +1,37 @@
+body{
+background-color:linen;
+background-image:url("/home/itsec2/Downloads/jpeg-home.jpg");
+ background-repeat:repeat-y;
+}
+p{
+color:red
+}
+p.colortext{
+color:green
+}
+h1{
+color:red;
+background-color:lightblue;
+margin-top:50px;
+margin-bottom:50px;
+margin-right:25px;
+margin-left:25px;
+width:50%;
+}
+#top {
+    color:green;
+}
+img{
+float:right;
+}
+p.one{
+color:red;
+border:dotted;
+border-width:4px;
+border:10px solid green;
+padding:50px;
+}
+div{
+width:500px;
+border:25px solid navy;
+}
